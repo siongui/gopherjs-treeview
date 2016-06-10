@@ -45,7 +45,7 @@ References
 
 .. [3] `[Golang] gettext Function on Frontend (Browser) by GopherJS <https://siongui.github.io/2016/01/28/go-gettext-function-frontend-browser-by-gopherjs/>`_
 
-.. _Ubuntu 16.04: http://releases.ubuntu.com/15.10/
+.. _Ubuntu 16.04: http://releases.ubuntu.com/16.04/
 .. _Go 1.6.2: https://golang.org/dl/
 .. _Go: https://golang.org/
 .. _GopherJS: https://github.com/gopherjs/gopherjs
